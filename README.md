@@ -1,5 +1,13 @@
-#POWERBI PROJECTS
+Power BI Developer | Data Analyst
 
-I am a recent computer science graduate, ready to dive into the world of data analytics. With a strong background in programming and problem-solving, I'm excited to start applying my skills to analyze data and uncover valuable insights. I'm eager to learn and grow in this field, and I'm committed to making a positive impact through my work.
+1.6+ years of experience helping FMCG clients make sense of their data. I bridge the gap between raw data and business strategy through professional Power BI dashboards.
 
-Here you can find my recent powerbi projects.
+What I do:
+
+📊 Design: High-impact visualizations for Sales, Market Share, and Consumer Insights.
+
+🧼 Clean: Robust data cleaning and ETL pipelines.
+
+💡 Implement: Deploying BI tools that solve real-world retail challenges.
+
+Currently showcasing projects involving SKU Optimization, Market Benchmarking, and Customer Satisfaction.
